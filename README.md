@@ -1,13 +1,13 @@
-# QuickLook.Plugin.DDSDrawViewer
+# QuickLook.Plugin.DDSViewer
 <p align="center">
     <a href="https://github.com/zhangkaihua88" alt="开发者">
         <img src="https://img.shields.io/badge/开发者-幻华-blue?logo=github">
     </a>
-    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.DDSDrawViewer" alt="GitHub all releases">
-        <img src="https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSDrawViewer/total?color=success">
+    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer" alt="GitHub all releases">
+        <img src="https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.DDSViewer/total?color=success">
     </a>
-    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.DDSDrawViewer/releases" alt="GitHub release (latest by date)">
-        <img src="https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSDrawViewer">
+    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer/releases" alt="GitHub release (latest by date)">
+        <img src="https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.DDSViewer">
     </a>
 </p> 
 
@@ -21,7 +21,7 @@ from Pfim's test example.
 - Using `ImageViewer` to display the thumbnail file.
 
 # Download and Installation
-1. Go to [Release page](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSDrawViewer/releases) and download the latest version.
+1. Go to [Release page](https://github.com/zhangkaihua88/QuickLook.Plugin.DDSViewer/releases) and download the latest version.
 2. Make sure that you have QuickLook running in the background. Go to your Download folder, and press Spacebar on the downloaded `.qlplugin` file.
 3. Click the "Install" button in the popup window.
 4. Restart QuickLook.
