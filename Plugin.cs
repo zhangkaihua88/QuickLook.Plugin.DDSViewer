@@ -38,7 +38,7 @@ namespace QuickLook.Plugin.DDSViewer
             else
                 context.PreferredSize = new System.Windows.Size(800, 600);
 
-            context.Theme = (Themes)SettingHelper.Get("LastTheme", 1, "QuickLook.Plugin.ImageViewer");
+            //context.Theme = (Themes)SettingHelper.Get("LastTheme", 1, "QuickLook.Plugin.ImageViewer");
         }
 
         public void View(string path, ContextObject context)
@@ -47,7 +47,7 @@ namespace QuickLook.Plugin.DDSViewer
             _ip = new ImagePanel();
             _ip.ContextObject = context;
             _ip.Meta = _meta;
-            _ip.Theme = context.Theme;
+            //_ip.Theme = context.Theme;
 
             var size = _meta.GetSize();
             context.ViewerContent = _ip;
